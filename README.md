@@ -476,7 +476,7 @@ Output:
 
 ## Authors :black_nib:
 
-* Yeabkal Wondimu <[cm-amos](https://github.com/YeabkalW)>
+* Yeabkal Wondimu <[YeabkalW](https://github.com/YeabkalW)>
 * 
 
 
